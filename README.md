@@ -1,3 +1,5 @@
+This page has been archived and further updates will be on Christopher’s [GitHub page]( https://github.com/hally166/SonySorterScripts).
+
 # SonySorterScripts
 Some little scripts that interact with the Sony SH800S
 
